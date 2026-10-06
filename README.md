@@ -8,6 +8,22 @@ Stacks Milky Way and starry landscape frames: the stars are lined up automatical
 
 **New to Nightscape Stacker? Read the [step-by-step guide](GUIDE.md)** (also in the app under **Help → How to use Nightscape Stacker**).
 
+## Features
+
+- **Stars lined up automatically.** No picking stars by hand. It's accurate to a fraction of a pixel, and stays sharp right into the corners of wide-angle lenses.
+- **Sharp ground.** The sky and the landscape are stacked separately. The boundary is found for you, including trees, poles and wires, and a smart brush makes touch-ups easy.
+- **3–5× less noise** than a single frame, measured and shown on the result.
+- **Planes and satellites removed**, with a map of exactly what was taken out.
+- **Star tracker support:** combine tracked sky frames with untracked frames of the landscape.
+- **HDR:** mix shutter speeds, for example short frames for a bright core or a long one for the foreground.
+- **Stars slider:** brighter starlight or smaller stars, without lifting the noise.
+- **Sky glow and colour cast removal** for light pollution and moonlight, applied to the sky only.
+- **Timelapse videos** from the same frames, smoothed and with the planes removed, in 16:9, 9:16, 1:1 or 4:5.
+- **Whole-night folders:** it finds the separate sequences on a card, and uses lens-cap frames as dark frames automatically.
+- **Dark frames, flat frames, blue-hour ground frames** and **water reflections** are all supported.
+- **RAW straight from the camera** and a **32-bit TIFF** with a matching colour profile that edits like a RAW in Lightroom.
+- **Mac and Windows**, free, with update notifications built in.
+
 ## Download
 
 Go to **[the latest release](../../releases/latest)** and download the file for your computer:
